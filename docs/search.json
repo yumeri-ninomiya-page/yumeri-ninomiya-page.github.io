@@ -16,7 +16,7 @@
   {
     "objectID": "readme.html",
     "href": "readme.html",
-    "title": "Name",
+    "title": "Yumeri Ninomiya",
     "section": "",
     "text": "サイトを更新するときのコマンド quarto render\ngit add . git commit -m “Update index.qmd”\ngit push origin main"
   }
