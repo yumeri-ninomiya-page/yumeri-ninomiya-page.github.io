@@ -6,6 +6,7 @@ project:
 website:
   title: "Name"  # ← ここがサイト上部の "web" を "Name" に変える
   navbar: 
+    background: light 
     left:
       - href: index.qmd
         text: Home
@@ -17,7 +18,7 @@ website:
 format:
   html:
     theme:
-      - cosno
+      - cosmo
       - brand
     css: styles.css
     toc: true

@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "Profile",
     "section": "",
-    "text": "About this site"
+    "text": "About this siteaa"
   },
   {
     "objectID": "teaching.html",
@@ -12,5 +12,12 @@
     "title": "Teaching",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "readme.html",
+    "href": "readme.html",
+    "title": "Name",
+    "section": "",
+    "text": "サイトを更新するときのコマンド quarto render\ngit add . git commit -m “Update index.qmd”\ngit push origin main"
   }
 ]

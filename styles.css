@@ -1,7 +1,7 @@
 /* === 共通：基本スタイル === */
 .navbar {
   background-color: rgba(173, 216, 230, 0.95) !important;
-  backdrop-filter: blur(10px);
+  backdrop-filter: blur(15px);
   border-bottom: none !important;
   box-shadow: none !important;
 }
@@ -24,10 +24,10 @@
 }
 
 /* === モバイル表示：幅768px以下 === */
-@media (max-width: 768px) {
+@media (max-width: 991px) {
   .navbar-collapse.show {
     background-color: rgba(173, 216, 230, 0.95) !important;
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(15px);
     position: fixed;
     top: 0;
     left: 0;
@@ -67,7 +67,7 @@
 }
 
 /* === PC表示：幅769px以上 === */
-@media (min-width: 769px) {
+@media (min-width: 992px) {
   .navbar-nav {
     display: flex !important;
     flex-direction: row !important;
