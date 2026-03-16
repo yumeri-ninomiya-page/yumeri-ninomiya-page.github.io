@@ -114,3 +114,8 @@
   margin-right: auto !important;
   margin-left: 0 !important;
 }
+
+.navbar-toggler {
+  margin-left: auto !important;
+  margin-right: 1rem !important;
+}
