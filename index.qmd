@@ -5,10 +5,7 @@ title: ""
 
 -- I'm a graduate student at Kobe University. My major is Econometrics. 
 
--- **Kyewords** 
-
-    --unemployment rate
-
-    --unit root test
-    
-    --cyclical trend
+-- **Kyewords**  
+--unemployment rate  
+--unit root test  
+--cyclical trend  
