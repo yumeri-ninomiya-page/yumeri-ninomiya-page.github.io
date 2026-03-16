@@ -1,11 +1,14 @@
 ---
 title: ""
 ---
-[Profile]{style="font-size: 2rem; font-weight: 700;"}
+[Home]{style="font-size: 2rem; font-weight: 700;"}
 
 -- I'm a graduate student at Kobe University. My major is Econometrics. 
 
 -- **Kyewords** 
+
     --unemployment rate
+
     --unit root test
+    
     --cyclical trend
