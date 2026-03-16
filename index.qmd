@@ -8,7 +8,7 @@ title: ""
 -- I'm a graduate student at Kobe University. My major is Econometrics. 
 
 -- [Kyewords]{style="font-size: 1.3rem; font-weight: 700;"}  
-- unemployment rate  
+- 　unemployment rate  
 - unit root test  
 - cyclical trend  
 a
