@@ -6,7 +6,8 @@ project:
 website:
   title: "Yumeri Ninomiya"  # ← ここがサイト上部の "web" を "Name" に変える
   navbar: 
-    background: light 
+    background: light
+    collapse-below: xl 
     left:
       - href: index.qmd
         text: Home
