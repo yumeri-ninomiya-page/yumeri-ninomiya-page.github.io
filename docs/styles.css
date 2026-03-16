@@ -105,3 +105,12 @@
   border-radius: 4px;
   padding: 0.3rem 0.8rem;
 }
+
+.navbar-container {
+  justify-content: flex-start !important;
+}
+
+.navbar-brand-container {
+  margin-right: auto !important;
+  margin-left: 0 !important;
+}
