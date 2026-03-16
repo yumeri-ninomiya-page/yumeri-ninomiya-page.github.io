@@ -16,14 +16,23 @@
   color: #007acc !important;
 }
 
+/* === タイトル左固定 === */
+.navbar-brand-container {
+  margin: 0 !important;
+  margin-right: auto !important;
+  position: relative !important;
+  left: 0 !important;
+}
+
 .navbar-toggler {
   border-color: rgba(0, 51, 102, 0.5);
 }
+
 .navbar-toggler-icon {
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba%280, 51, 102, 0.9%29' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
 }
 
-/* === モバイル表示：幅768px以下 === */
+/* === モバイル表示：幅991px以下 === */
 @media (max-width: 991px) {
   .navbar-collapse.show {
     background-color: rgba(173, 216, 230, 0.95) !important;
@@ -64,9 +73,16 @@
   .navbar-collapse.show::before {
     display: none !important;
   }
+
+  .navbar-toggler {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    z-index: 1100;
+  }
 }
 
-/* === PC表示：幅769px以上 === */
+/* === PC表示：幅992px以上 === */
 @media (min-width: 992px) {
   .navbar-nav {
     display: flex !important;
@@ -84,18 +100,8 @@
   }
 }
 
-
 .navbar .nav-link.active {
   border: 1.5px solid #003366 !important;
   border-radius: 4px;
   padding: 0.3rem 0.8rem;
-}
-
-@media (max-width: 991px) {
-  .navbar-toggler {
-    position: fixed;
-    top: 1rem;
-    right: 1rem;
-    z-index: 1100;
-  }
 }
