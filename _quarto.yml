@@ -17,10 +17,11 @@ website:
         text: Teaching
   page-footer:
       background: "#D7E6AC"
-      left: "© 2026 Yumeri Ninomiya"  
-      right:
+      right: "© 2026 Yumeri Ninomiya"  
+      left:
         - icon: envelope
-          href: mailto:233e126e[at]stu.kobe-u.jp  
+          href: 233e126e[at]stu.kobe-u.jp
+          text: 233e126e[at]stu.kobe-u.jp  
 
 format:
   html:
