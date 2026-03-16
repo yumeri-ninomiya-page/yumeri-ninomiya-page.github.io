@@ -20,7 +20,7 @@ website:
       right: "© 2026 Yumeri Ninomiya"  
       left:
         - icon: envelope
-          href: 233e126e[at]stu.kobe-u.jp
+          # href: 233e126e[at]stu.kobe-u.jp
           text: 233e126e[at]stu.kobe-u.jp  
 
 format:
