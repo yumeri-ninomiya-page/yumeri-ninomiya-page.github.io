@@ -18,10 +18,7 @@ website:
   page-footer:
       background: "#D7E6AC"
       right: "© 2026 Yumeri Ninomiya"  
-      left:
-        - icon: envelope
-          # href: 233e126e[at]stu.kobe-u.jp
-          text: 233e126e[at]stu.kobe-u.jp  
+      left:  "<i class='bi bi-envelope'></i> your@email.com" 
 
 format:
   html:
