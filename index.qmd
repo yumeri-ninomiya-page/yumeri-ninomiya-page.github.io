@@ -3,6 +3,6 @@ title: ""
 ---
 [Profile]{style="font-size: 2rem; font-weight: 700;"}
 
--- Kobe Univercity
+-- I'm a graduate student at Kobe University. My major is Econometrics. 
 
---R
+-- "Kyewords" 
