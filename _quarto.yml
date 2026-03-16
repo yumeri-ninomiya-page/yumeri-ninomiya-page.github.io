@@ -16,8 +16,8 @@ website:
       - href: teaching.qmd
         text: Teaching
   page-footer:
-      background: "#B8E0A0"
-      left: "© 2024 Name"  
+      background: "#9ED48A"
+      left: "© 2026 Name"  
       right:
         - icon: envelope
           href: mailto:your@email.com  
