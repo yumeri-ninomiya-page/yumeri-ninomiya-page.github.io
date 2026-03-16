@@ -16,7 +16,7 @@ website:
       - href: teaching.qmd
         text: Teaching
   page-footer:
-      background: "#9ED48A"
+      background: "#D7E6AC"
       left: "© 2026 Yumeri Ninomiya"  
       right:
         - icon: envelope
