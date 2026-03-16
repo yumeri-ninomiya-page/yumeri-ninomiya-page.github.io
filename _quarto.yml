@@ -15,13 +15,13 @@ website:
         text: CV
       - href: teaching.qmd
         text: Teaching
-page-footer:
-    background: "#003366"
-    left: "© 2024 Name"  
-    right:
-      - icon: envelope
-        href: mailto:your@email.com  
-        
+  page-footer:
+      background: "#003366"
+      left: "© 2024 Name"  
+      right:
+        - icon: envelope
+          href: mailto:your@email.com  
+
 format:
   html:
     theme:
