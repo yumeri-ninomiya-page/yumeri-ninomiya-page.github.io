@@ -128,3 +128,13 @@
   margin-left: auto !important;
   margin-right: 1rem !important;
 }
+
+
+h1 a, h2 a, h3 a {
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+.anchor-section {
+  display: none !important;
+}
