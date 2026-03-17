@@ -2,5 +2,6 @@
 title: ""
 ---
 ## <i class="bi bi-person-video3"></i> Teaching
-KWANSEI GAKUIN　
+KWANSEI GAKUIN
+　
 -- Introduction to Economic Mathematics
