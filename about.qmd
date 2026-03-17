@@ -1,7 +1,7 @@
 ---
-title: "CV"
+title: ""
 ---
-
+## <i class="bi bi-clock-history"></i> CV
 
 
 
