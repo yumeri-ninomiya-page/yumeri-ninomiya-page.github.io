@@ -2,10 +2,10 @@
 title: ""
 ---
 ## <i class="bi bi-clock-history"></i> CV
-[My CV(in Japanese) can be downloaded here:]{style="font-size: 1.2rem; font-weight: 700;"} 
+[My CV (in Japanese) can be downloaded here:]{style="font-size: 1.2rem; font-weight: 700;"} 
 
 [📄 Download PDF](CV_jp_v1.pdf){.btn style="border-radius: 20px; background-color: #9ED48A; border-color: #9ED48A; color: #003366;"}
 
-[My CV(in English) can be downloaded here:]{style="font-size: 1.2rem; font-weight: 700;"} 
+[My CV (in English) can be downloaded here:]{style="font-size: 1.2rem; font-weight: 700;"} 
 
 [📄 Download PDF](CV_en_v1.pdf){.btn style="border-radius: 20px; background-color: #9ED48A; border-color: #9ED48A; color: #003366;"}
