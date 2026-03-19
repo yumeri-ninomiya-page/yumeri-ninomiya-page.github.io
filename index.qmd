@@ -5,6 +5,7 @@ title: ""
 [Profile]{style="font-size: 1.3rem; font-weight: 700;"}
 
 (二宮夢理)
+
 -- I'm a graduate student at Kobe University. My major is Econometrics. 
 
 -- [Kyewords]{style="font-size: 1.3rem; font-weight: 700;"}  
