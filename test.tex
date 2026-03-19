@@ -1,0 +1,42 @@
+\documentclass[11pt, a4paper]{article}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{hyperref}
+\usepackage{fontawesome5}
+\usepackage{titlesec}
+\usepackage{enumitem}
+
+% セクション見出しのスタイル
+\titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
+
+\begin{document}
+
+% ヘッダー
+\begin{center}
+  {\LARGE \textbf{Your Name}} \\[0.5em]
+  \faEnvelope\ your@email.com \quad
+  \faGithub\ github.com/username \quad
+  \faGlobe\ yoursite.github.io
+\end{center}
+
+\section{Education}
+\textbf{大学名} \hfill 2020--2024 \\
+学部・学科名 \\
+
+\section{Research Interests}
+\begin{itemize}[noitemsep]
+  \item 研究テーマ1
+  \item 研究テーマ2
+\end{itemize}
+
+\section{Publications}
+\begin{itemize}[noitemsep]
+  \item 著者名 (2024). タイトル. \textit{雑誌名}.
+\end{itemize}
+
+\section{Skills}
+\begin{itemize}[noitemsep]
+  \item 言語: Python, R
+  \item ツール: LaTeX, Git
+\end{itemize}
+
+\end{document}
