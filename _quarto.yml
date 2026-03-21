@@ -4,7 +4,7 @@ project:
   execute-dir: project
 
 website:
-  title: "Yumeri Ninomiya"  # ← ここがサイト上部の "web" を "Name" に変える
+  title: "Yumeri Ninomiya, 二宮夢理"  # ← ここがサイト上部の "web" を "Name" に変える
   navbar: 
     background: light
     collapse-below: xl 
