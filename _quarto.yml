@@ -31,7 +31,7 @@ format:
     include-in-header:
       text: |
         <meta name="google-site-verification" content="Nrrrw5-D_9kJOPoBOCGXLxZ1duNCmc3mPKcyPyrszz4" />
-
+lang: ja
 navbar:
   right:
     - icon: github
